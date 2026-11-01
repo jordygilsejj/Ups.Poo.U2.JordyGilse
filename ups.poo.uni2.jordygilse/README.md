@@ -121,6 +121,7 @@ ups.poo.uni2.jordygilse/
 - Se organizó el código en dos paquetes: uno para el contenido audiovisual y otro para las clases de apoyo.
 - Se agregó la carpeta `docs/` con el diagrama de clases UML y la captura de la ejecución.
 
+
 ## Autor
 
 Jordy Gilse
